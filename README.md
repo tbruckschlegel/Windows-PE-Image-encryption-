@@ -10,6 +10,6 @@ https://learn.microsoft.com/en-us/windows/win32/debug/pe-format
 
 
 ## TLS section
-Thread Local Storage, a simple concept that allows each thread to have a seperate memory section, accesible through a single C++ variable name... 
+Thread Local Storage, a simple concept that allows each thread to have a seperate memory section, accesible through a single variable name.
 
 Stay tunes for code to come!
